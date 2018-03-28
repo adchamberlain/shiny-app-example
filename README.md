@@ -1,8 +1,4 @@
-# Launch R Shiny App for GD Retention Costs Calculator
-# Andrew Chamberlain, Ph.D.
-# achamberlain.com
-# March 2018
-
+# R Shiny App Example
 R Shiny app example for Glassdoor's employee retention costs calculator. Please see associated news release here: https://www.glassdoor.com/press/retention-study-2018/.
 
 Instructions:
